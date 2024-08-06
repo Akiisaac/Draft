@@ -1,0 +1,12 @@
+---
+title: "NAME"
+listing:
+  contents: posts
+  sort: "date_desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: custom
+title-block-banner: true
+---

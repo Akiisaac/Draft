@@ -1,0 +1,31 @@
+{
+    "id": "58FA7897",
+    "path": "~/Test_Site/posts/post-with-code/index.qmd",
+    "project_path": "posts/post-with-code/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1722945373160.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "5872:2442",
+        "cursorPosition": "0,0",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1722954811,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722954811122,
+    "read_only": false,
+    "read_only_alternatives": []
+}
